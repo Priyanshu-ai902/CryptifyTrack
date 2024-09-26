@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+.app{
+    min-height: 100vh;
+    color: white;
+    background: linear-gradient(135deg, #020013, #0b0820, #1a0d1d, #000e15);
+
+
+
+
+}
